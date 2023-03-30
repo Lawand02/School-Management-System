@@ -1,3 +1,31 @@
+# Rojava School Management System
+![FINAL SMS LOGO](https://user-images.githubusercontent.com/101660711/228955441-10cf78bf-3247-4c09-8329-a57f77cdc34f.png)
+
+## Dashboard
+![Screenshot from 2023-03-30 20-27-32](https://user-images.githubusercontent.com/101660711/228954482-a9e75f29-939e-446e-a372-696d131bcbf6.png)
+
+
+
+
+![Screenshot from 2023-03-30 20-24-36](https://user-images.githubusercontent.com/101660711/228955101-4dd0503d-1e87-4924-87d6-cb203d4ea877.png)
+
+
+
+
+    
+    
+### There are 7 types of user accounts. They include:
+
+- **Administrators (Super Admin )**
+- **Teacher**
+- **Student**
+- **Parent**
+
+# Requirements
+
+Check Laravel 9 Requirements https://laravel.com/docs/9.x
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
